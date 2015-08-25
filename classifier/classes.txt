@@ -1,0 +1,1 @@
+{0: 'One', 1: 'Five Open', 2: 'Crossed Fingers', 3: 'Two', 4: 'Five Closed', 5: 'Heavy Metal', 6: 'Thumb Up', 7: 'Loser', 8: 'Hang Loose', 9: 'Four', 10: 'Three'}
